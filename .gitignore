@@ -41,8 +41,6 @@ env/
 # Database credentials (if you create a separate config)
 config.py
 
-# SQL file (to be added by collaborator)
-DBMSProject.sql
 
 # OS
 .DS_Store
